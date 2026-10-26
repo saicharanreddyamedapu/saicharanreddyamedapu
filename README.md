@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Sai Charan Reddy</h1>
-<h3 align="center">QA Engineer & Software Development Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Manual+Testing;Bug+Reporting;Web+Development;Problem+Solving" />
